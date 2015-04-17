@@ -1,0 +1,34 @@
+".container" : {
+	//top:'120px',
+	height:Ti.UI.FILL
+},
+".boy" : {
+  backgroundColor:'#4E8EF7',
+  right: '50%',
+  width: '150%'
+},
+".girl" : {
+  backgroundColor:'#D91E76',
+  left: '50%',
+  width: '150%'
+},
+".boyView" : {
+	top:'60px',
+	width:'33%',
+	right:'0px',
+	height: Ti.UI.SIZE,
+	layout: 'vertical'
+},
+".girlView" : {
+	top:'60px',
+	width:'33%',
+	left:'0px',
+	height: Ti.UI.SIZE,
+	layout: 'vertical'
+},
+"#boyImage" : {
+	image: '/Boy.png'
+},
+"#girlImage" : {
+	image: '/Girl.png'
+}

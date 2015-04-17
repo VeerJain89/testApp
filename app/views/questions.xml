@@ -1,0 +1,6 @@
+<Alloy>
+	<View id ="viewContainer" class="container">
+		<Label id="questionlabel" text="Sample Question"></Label>
+		<TableView id="optionsTableView"></TableView>
+	</View>
+</Alloy>

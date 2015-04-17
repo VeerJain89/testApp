@@ -1,0 +1,19 @@
+<Alloy>
+	<View class="container" id="container">
+		<View id="boyWindow" class="boy">
+			<View class="boyView">
+				<ImageView id="boyImage" onClick="boyClicked"></ImageView>
+				<Label text="Boy"></Label>
+			</View>
+		</View>
+		
+		<View id="girlWindow" class="girl">
+			<View class="girlView">
+				<ImageView id="girlImage" onClick="girlClicked"></ImageView>
+				<Label text="Girl"></Label>
+			</View>
+		</View>
+		
+		<Label id="genderQuest" top="0px" text="You are (click on the image below):"></Label>
+	</View>
+</Alloy>

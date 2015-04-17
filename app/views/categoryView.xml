@@ -1,0 +1,8 @@
+<Alloy>
+	<View class="container">
+		<ScrollableView id="scrollable_cat_view">
+		</ScrollableView>
+		<Button id="leftButton"></Button>
+		<Button id="rightButton"></Button>
+	</View>
+</Alloy>

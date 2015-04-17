@@ -1,0 +1,13 @@
+
+".container" : {
+  top:20,
+  height: Titanium.UI.SIZE,
+  width:"90%",
+  layout:"vertical"
+},
+"#optionsView": {
+	top:5,
+	layout: "horizontal",
+	width: "100%",
+	height:Titanium.UI.SIZE
+}

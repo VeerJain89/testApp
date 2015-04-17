@@ -1,0 +1,26 @@
+".container": {
+  backgroundColor: "transparent",
+  height: Titanium.UI.FILL,
+  width: '67%'
+},
+"#scrollable_cat_view": {
+	backgroundColor: "transparent",
+	left:0,
+	right:0,
+	top:0,
+	bottom:0
+},
+"#leftButton": {
+	left:0,
+	width:50,
+	height:50,
+	title: "<",
+	backgroundColor:"red"
+},
+"#rightButton": {
+	right:0,
+	width:50,
+	height:50,
+	title: ">",
+	backgroundColor:"red"
+}

@@ -1,0 +1,9 @@
+
+".container" : {
+  width: Titanium.UI.FILL,
+  height: Ti.UI.FILL,
+  layout: "vertical"
+},
+"#categoryTitle": {
+	top:10
+}

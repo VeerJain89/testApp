@@ -1,0 +1,527 @@
+{
+	"mresponse": {
+       "ques_compatibility": [
+           {
+               "question_id": "1",
+               "question_text": "Have you been able to accept your partner mostly without wanting to change him or her?",
+               "option_type": "radio",
+               "options": [
+                    {
+                      "id":1,
+                      "text" : "Strongly Agree"
+                    },
+                    {
+                      "id":2,
+                      "text" : "Agree"
+                    },
+                    {
+                      "id":3,
+                      "text" : "Neither Agree , nor disagree"
+                    },
+                    {
+                      "id":4,
+                      "text" : "Disagree"
+                    },
+                    {
+                      "id":5,
+                      "text" : "Strongly Disagree"
+                    }
+                ]
+           },
+          {
+               "question_id": "2",
+               "question_text": "Do they physically hurt you - punching, slapping, pinching, shoving?",
+               "option_type": "radio",
+               "options": [
+                    {
+                      "id":1,
+                      "text" : "Often"
+                    },
+                    {
+                      "id":2,
+                      "text" : "Sometimes"
+                    },
+                    {
+                      "id":3,
+                      "text" : "Very few times"
+                    },
+                    {
+                      "id":4,
+                      "text" : "Never"
+                    }
+                ]
+           },
+          {
+               "question_id": "3",
+               "question_text": "Does your partner constantly criticise and undermine you?",
+               "option_type": "radio",
+               "options": [
+                    {
+                      "id":1,
+                      "text" : "Strongly Agree"
+                    },
+                    {
+                      "id":2,
+                      "text" : "Agree"
+                    },
+                    {
+                      "id":3,
+                      "text" : "Neither Agree , nor disagree"
+                    },
+                    {
+                      "id":4,
+                      "text" : "Disagree"
+                    },
+                    {
+                      "id":5,
+                      "text" : "Strongly Disagree"
+                    }
+                ]
+          },
+          {
+               "question_id": "4",
+               "question_text": "Is your partner happy for you to spend time away, for example for a business trip, a holiday with friends, a workshop, etc?",
+               "option_type": "radio",
+               "options": [
+                    {
+                      "id":1,
+                      "text" : "Strongly Agree"
+                    },
+                    {
+                      "id":2,
+                      "text" : "Agree"
+                    },
+                    {
+                      "id":3,
+                      "text" : "Neither Agree , nor disagree"
+                    },
+                    {
+                      "id":4,
+                      "text" : "Disagree"
+                    },
+                    {
+                      "id":5,
+                      "text" : "Strongly Disagree"
+                    }
+                ]
+            },
+            {
+               "question_id": "5",
+               "question_text": "With regards to your sexual compatibility - do you feel comfortable enough with them to ask for what you want?",
+               "option_type": "radio",
+               "options": [
+                    {
+                      "id":1,
+                      "text" : "Strongly Agree"
+                    },
+                    {
+                      "id":2,
+                      "text" : "Agree"
+                    },
+                    {
+                      "id":3,
+                      "text" : "Neither Agree , nor disagree"
+                    },
+                    {
+                      "id":4,
+                      "text" : "Disagree"
+                    },
+                    {
+                      "id":5,
+                      "text" : "Strongly Disagree"
+                    }
+                ]
+           },
+            {
+               "question_id": "6",
+               "question_text": "With regards to your sexual compatibility - do you feel comfortable enough with them to ask for what you want?",
+               "option_type": "radio",
+               "options": [
+                    {
+                      "id":1,
+                      "text" : "Strongly Agree"
+                    },
+                    {
+                      "id":2,
+                      "text" : "Agree"
+                    },
+                    {
+                      "id":3,
+                      "text" : "Neither Agree , nor disagree"
+                    },
+                    {
+                      "id":4,
+                      "text" : "Disagree"
+                    },
+                    {
+                      "id":5,
+                      "text" : "Strongly Disagree"
+                    }
+                ]
+           }
+           
+       ],
+       "ques_physical": [
+           {
+               "question_id": "1",
+               "question_text": "Is physical affection is your relationship biggest strength",
+               "option_type": "radio",
+               "options": [
+                    {
+                      "id":1,
+                      "text" : "Strongly Agree"
+                    },
+                    {
+                      "id":2,
+                      "text" : "Agree"
+                    },
+                    {
+                      "id":3,
+                      "text" : "Neither Agree , nor disagree"
+                    },
+                    {
+                      "id":4,
+                      "text" : "Disagree"
+                    },
+                    {
+                      "id":5,
+                      "text" : "Strongly Disagree"
+                    }
+                ]
+           },
+          {
+               "question_id": "2",
+               "question_text": "Do you think your partner is in relationship because of sex",
+               "option_type": "radio",
+               "options": [
+                    {
+                      "id":1,
+                      "text" : "Strongly Agree"
+                    },
+                    {
+                      "id":2,
+                      "text" : "Agree"
+                    },
+                    {
+                      "id":3,
+                      "text" : "Neither Agree , nor disagree"
+                    },
+                    {
+                      "id":4,
+                      "text" : "Disagree"
+                    },
+                    {
+                      "id":5,
+                      "text" : "Strongly Disagree"
+                    }
+                ]
+           },
+          {
+               "question_id": "3",
+               "question_text": "Is your partner satisfied you or not on bed ?",
+               "option_type": "radio",
+               "options": [
+                    {
+                      "id":1,
+                      "text" : "Strongly Agree"
+                    },
+                    {
+                      "id":2,
+                      "text" : "Agree"
+                    },
+                    {
+                      "id":3,
+                      "text" : "Neither Agree , nor disagree"
+                    },
+                    {
+                      "id":4,
+                      "text" : "Disagree"
+                    },
+                    {
+                      "id":5,
+                      "text" : "Strongly Disagree"
+                    }
+                ]
+          },
+          {
+               "question_id": "4",
+               "question_text": "Who is more wild on bed ?",
+               "option_type": "radio",
+               "options": [
+                    {
+                      "id":1,
+                      "text" : "He/She"
+                    },
+                    {
+                      "id":2,
+                      "text" : "Me"
+                    },
+                    {
+                      "id":3,
+                      "text" : "Both"
+                    },
+                    {
+                      "id":4,
+                      "text" : "Nobody"
+                    },
+                    {
+                      "id":5,
+                      "text" : "Sometimes me Sometimes s/he"
+                    }
+                ]
+            }
+            
+           
+       ],
+       "ques_personality": [
+           {
+               "question_id": "1",
+               "question_text": "You works up the nerve to make a kinky suggestion. How would your partner react?",
+               "option_type": "radio",
+               "options": [
+                    {
+                      "id":1,
+                      "text" : "S/he would happily go for anything!"
+                    },
+                    {
+                      "id":2,
+                      "text" : "S/he would be willing to try most kinky deeds I can think of"
+                    },
+                    {
+                      "id":3,
+                      "text" : "S/he would be willing to try some kinky deeds I can think of, but many are off limits"
+                    },
+                    {
+                      "id":4,
+                      "text" : "S/he would not be willing to try the vast majority of kinky deeds."
+                    },
+                    {
+                      "id":5,
+                      "text" : "Kinky is not for him/her. S/he would refuse."
+                    }
+                ]
+           },
+          {
+               "question_id": "2",
+               "question_text": "Do your partner enjoy surprising you with something unexpected in the bedroom?",
+               "option_type": "radio",
+               "options": [
+                    {
+                      "id":1,
+                      "text" : "Often"
+                    },
+                    {
+                      "id":2,
+                      "text" : "Sometimes"
+                    },
+                    {
+                      "id":3,
+                      "text" : "Very few times"
+                    },
+                    {
+                      "id":4,
+                      "text" : "Never"
+                    }
+                ]
+           },
+          {
+               "question_id": "3",
+               "question_text": "I tell my partner just about everything.",
+               "option_type": "radio",
+               "options": [
+                    {
+                      "id":1,
+                      "text" : "Strongly Agree"
+                    },
+                    {
+                      "id":2,
+                      "text" : "Agree"
+                    },
+                    {
+                      "id":3,
+                      "text" : "Neither Agree , nor disagree"
+                    },
+                    {
+                      "id":4,
+                      "text" : "Disagree"
+                    },
+                    {
+                      "id":5,
+                      "text" : "Strongly Disagree"
+                    }
+                ]
+          },
+          {
+               "question_id": "4",
+               "question_text": " I often feel depressed and blue about my relationships.",
+               "option_type": "radio",
+               "options": [
+                    {
+                      "id":1,
+                      "text" : "Strongly Agree"
+                    },
+                    {
+                      "id":2,
+                      "text" : "Agree"
+                    },
+                    {
+                      "id":3,
+                      "text" : "Neither Agree , nor disagree"
+                    },
+                    {
+                      "id":4,
+                      "text" : "Disagree"
+                    },
+                    {
+                      "id":5,
+                      "text" : "Strongly Disagree"
+                    }
+                ]
+            }
+            
+           
+       ],
+       "ques_behavioural": [
+           {
+               "question_id": "1",
+               "question_text": "I have difficulty expressing opinions that are different from my partners because I fear being yelled at, put down, rejected or ridiculed by him/her.",
+               "option_type": "radio",
+                "options": [
+                    {
+                      "id":1,
+                      "text" : "Strongly Agree"
+                    },
+                    {
+                      "id":2,
+                      "text" : "Agree"
+                    },
+                    {
+                      "id":3,
+                      "text" : "Neither Agree , nor disagree"
+                    },
+                    {
+                      "id":4,
+                      "text" : "Disagree"
+                    },
+                    {
+                      "id":5,
+                      "text" : "Strongly Disagree"
+                    }
+                ]
+           },
+          {
+               "question_id": "2",
+               "question_text": "When I am upset about something outside our relationship (work/school friends, family, etc.), my partner tries to comfort me.",
+               "option_type": "radio",
+               "options": [
+                    {
+                      "id":1,
+                      "text" : "Strongly Agree"
+                    },
+                    {
+                      "id":2,
+                      "text" : "Agree"
+                    },
+                    {
+                      "id":3,
+                      "text" : "Neither Agree , nor disagree"
+                    },
+                    {
+                      "id":4,
+                      "text" : "Disagree"
+                    },
+                    {
+                      "id":5,
+                      "text" : "Strongly Disagree"
+                    }
+                ]
+           },
+          {
+               "question_id": "3",
+               "question_text": "I feel my partner makes a lot of effort (regardless of its adequacy) to fulfill my emotional needs.",
+               "option_type": "radio",
+               "options": [
+                    {
+                      "id":1,
+                      "text" : "Strongly Agree"
+                    },
+                    {
+                      "id":2,
+                      "text" : "Agree"
+                    },
+                    {
+                      "id":3,
+                      "text" : "Neither Agree , nor disagree"
+                    },
+                    {
+                      "id":4,
+                      "text" : "Disagree"
+                    },
+                    {
+                      "id":5,
+                      "text" : "Strongly Disagree"
+                    }
+                ]
+          },
+          {
+               "question_id": "4",
+               "question_text": "I regret meeting my partner.",
+               "option_type": "radio",
+               "options": [
+                    {
+                      "id":1,
+                      "text" : "Strongly Agree"
+                    },
+                    {
+                      "id":2,
+                      "text" : "Agree"
+                    },
+                    {
+                      "id":3,
+                      "text" : "Neither Agree , nor disagree"
+                    },
+                    {
+                      "id":4,
+                      "text" : "Disagree"
+                    },
+                    {
+                      "id":5,
+                      "text" : "Strongly Disagree"
+                    }
+                ]
+            },
+          {
+               "question_id": "5",
+               "question_text": "I feel that I can trust my mate.",
+               "option_type": "radio",
+               "options": [
+                    {
+                      "id":1,
+                      "text" : "Strongly Agree"
+                    },
+                    {
+                      "id":2,
+                      "text" : "Agree"
+                    },
+                    {
+                      "id":3,
+                      "text" : "Neither Agree , nor disagree"
+                    },
+                    {
+                      "id":4,
+                      "text" : "Disagree"
+                    },
+                    {
+                      "id":5,
+                      "text" : "Strongly Disagree"
+                    }
+                ]
+            }
+            
+           
+       ],
+       "messages": null,
+       "status": "SUCCESS"
+   }
+    
+}
